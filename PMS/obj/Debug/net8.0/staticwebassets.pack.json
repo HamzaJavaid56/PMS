@@ -17,6 +17,38 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "E:\\PMS\\PMS\\PMS\\wwwroot\\lib\\admin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "E:\\PMS\\PMS\\PMS\\wwwroot\\lib\\admin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "E:\\PMS\\PMS\\PMS\\wwwroot\\lib\\admin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "E:\\PMS\\PMS\\PMS\\wwwroot\\lib\\admin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "E:\\PMS\\PMS\\PMS\\wwwroot\\lib\\admin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\lib\\admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "E:\\PMS\\PMS\\PMS\\wwwroot\\lib\\admin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\css\\styles.css"
+    },
+    {
+      "Id": "E:\\PMS\\PMS\\PMS\\wwwroot\\lib\\admin\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "E:\\PMS\\PMS\\PMS\\wwwroot\\lib\\admin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\js\\scripts.js"
+    },
+    {
       "Id": "E:\\PMS\\PMS\\PMS\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
